@@ -1,50 +1,50 @@
-<br clear="both">
-
-<div>
+<div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=130&section=header&text=Estev%C3%A3o%20Ximenes&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=5B9BD5"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5B9BD5&center=true&vCenter=true&width=600&lines=Suporte+Geral+de+TI;Estudante+de+Python;Explorando+IA+e+Vis%C3%A3o+Computacional" alt="typing"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5B9BD5&center=true&vCenter=true&width=600&lines=Suporte+Geral+de+TI;Estudante+de+Python;Explorando+IA+e+Vis%C3%A3o+Computacional" alt="apresentação"  />
 </div>
 
-###
+```python
+estevao = {
+    "cargo": "Suporte Geral de TI",
+    "estudando": ["Python", "Apps Android", "IA"],
+    "faculdade": "UniAteneu",
+    "base": "Fortaleza, CE",
+    "ritmo": "aprender um pouco todo dia",
+}
+```
 
-<h1 align="center">Sobre mim</h1>
+---
 
-###
+<h2 align="center">Sobre mim</h2>
 
-<p align="left">- Estudante de Python 💻.<br>- Aprendendo a criar sistemas desktop e aplicativos Android 📱.<br>- Estudante UniAteneu 🎓.<br>- Suporte Geral de TI, programador em formação 🚀.<br>- Explorando visão computacional e inteligência artificial 🤖.<br>- Fortaleza, Ceará 📍.
+<p align="center">
+Estudante de Python, aprendendo a criar sistemas desktop e aplicativos Android.<br>
+Suporte Geral de TI de dia, programador em formação. Explorando visão computacional e inteligência artificial.
+</p>
 
-###
+---
 
-<h2 align="center">Tecnologias - Estudando</h2>
-
-###
+<h2 align="center">Tecnologias que estou estudando</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="android studio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=py,java,kotlin,androidstudio,flask,git" height="50" alt="tecnologias"  />
 </div>
 
-###
+---
 
-<h1 align="center">Estatísticas</h1>
+<h2 align="center">Projetos em destaque</h2>
 
-###
+| Projeto | O que é |
+|---|---|
+| [detector_objetos_yolo26n](https://github.com/Esteves2601/detector_objetos_yolo26n) | Detector de objetos com YOLO: desktop, app Android nativo e PWA, 100% offline |
+| [buscador_cep](https://github.com/Esteves2601/buscador_cep) | Sistema desktop e app Android para consulta de endereços via API ViaCEP |
 
-<br clear="both">
+---
+
+<h2 align="center">Estatísticas</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Esteves2601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="150" alt="estatísticas"  />
@@ -52,36 +52,26 @@
   <img src="https://streak-stats.demolab.com?user=Esteves2601&locale=pt-br&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="sequência"  />
 </div>
 
-###
+---
 
-<h2 align="center">Redes Sociais</h2>
-
-###
+<h2 align="center">Onde me encontrar</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/estev%C3%A3o-ximenes-2170bb382/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
   </a>
   <a href="https://www.instagram.com/estevolx2601/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"  />
   </a>
   <a href="https://esteves2601.itch.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"  />
   </a>
 </div>
 
-###
-
-<br clear="both">
+---
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/BKFQl_9P4KsAAAAC/frieren-pixel-pixel-frieren.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/BKFQl_9P4KsAAAAC/frieren-pixel-pixel-frieren.gif" alt="Frieren"  />
+  <br>
+  <em>Coletando grimórios — um feitiço (e um commit) de cada vez.</em>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:Esteves2601?theme=sketch-1&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
