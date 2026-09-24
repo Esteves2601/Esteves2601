@@ -73,5 +73,4 @@ Suporte Geral de TI de dia, programador em formação. Explorando visão computa
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/BKFQl_9P4KsAAAAC/frieren-pixel-pixel-frieren.gif" alt="Frieren"  />
   <br>
-  <em>Coletando grimórios — um feitiço (e um commit) de cada vez.</em>
 </div>
