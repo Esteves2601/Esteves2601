@@ -1,43 +1,72 @@
-# Estevão Ximenes
+<br clear="both">
 
-**Desenvolvedor Python · Estudante UniAteneu · Fortaleza, Ceará**
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Estev%C3%A3o%20Ximenes&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=2F7D33"  />
+</div>
 
-Auxiliar Administrativo de dia, programador em formação. Desenvolvo sistemas desktop e aplicativos Android, com interesse em visão computacional e inteligência artificial.
+###
 
----
+<h1 align="center">About me</h1>
 
-## Habilidades
+###
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">- Desenvolvedor Python 💻.<br>- Crio sistemas desktop e aplicativos Android 📱.<br>- Estudante UniAteneu 🎓.<br>- Auxiliar Administrativo de dia, programador em formação 🚀.<br>- Interesse em visão computacional e inteligência artificial 🤖.<br>- Fortaleza, Ceará 📍.
 
----
+###
 
-## Estatísticas
+<h1 align="center">Status</h1>
 
-![Estatísticas de Esteves2601](https://github-readme-stats.vercel.app/api?username=Esteves2601&show_icons=true&theme=gruvbox)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Esteves2601&layout=compact&theme=gruvbox)
+###
 
----
+<br clear="both">
 
-## Projetos em destaque
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Esteves2601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esteves2601&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Esteves2601&locale=pt-br&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-| Projeto | Descrição |
-|---|---|
-| [detector_objetos_yolo26n](https://github.com/Esteves2601/detector_objetos_yolo26n) | Detector de objetos com YOLO26n: desktop Windows, app Android nativo e PWA, 100% offline |
-| [buscador_cep](https://github.com/Esteves2601/buscador_cep) | Sistema desktop (PySide6) e app Android nativo para consulta de endereços via API ViaCEP |
-| [Agenda-de-Contatos-Python](https://github.com/Esteves2601/Agenda-de-Contatos-Python) | Avaliação Universitária - UniAteneu |
-| [Jogo-da-Velha-Bot](https://github.com/Esteves2601/Jogo-da-Velha-Bot) | Jogo feito para avaliação de algoritmos computacionais UNIATENEU |
-| [Escolha-de-assentos-Aviao](https://github.com/Esteves2601/Escolha-de-assentos-Aviao) | Resolução do problema: Venda de assentos |
+###
 
----
+<h2 align="left">Technologies - Main</h2>
 
-## Contato
+###
 
-- Instagram: [@estevolx2601](https://www.instagram.com/estevolx2601/)
-- Jogos: [esteves2601.itch.io](https://esteves2601.itch.io/)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="android studio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/estevolx2601/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://esteves2601.itch.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/itch/default.svg" width="52" height="40" alt="itch logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Esteves2601?theme=sketch-1&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
