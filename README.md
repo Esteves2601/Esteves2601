@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor Python 💻.<br>- Crio sistemas desktop e aplicativos Android 📱.<br>- Estudante UniAteneu 🎓.<br>- Auxiliar Administrativo de dia, programador em formação 🚀.<br>- Interesse em visão computacional e inteligência artificial 🤖.<br>- Fortaleza, Ceará 📍.
+<p align="left">- Estudante de Python 💻.<br>- Aprendendo a criar sistemas desktop e aplicativos Android 📱.<br>- Estudante UniAteneu 🎓.<br>- Auxiliar Administrativo de dia, programador em formação 🚀.<br>- Explorando visão computacional e inteligência artificial 🤖.<br>- Fortaleza, Ceará 📍.
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Tecnologias - Principais</h2>
+<h2 align="left">Tecnologias - Estudando</h2>
 
 ###
 
