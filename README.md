@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.gif" alt="Estevão Ximenes"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=130&section=header&text=Estev%C3%A3o%20Ximenes&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=5B9BD5"  />
 </div>
 
 <div align="center">
@@ -20,10 +20,12 @@ estevao = {
 
 <h2 align="center">Sobre mim</h2>
 
-<p align="center">
-Estudante de Python, aprendendo a criar sistemas desktop e aplicativos Android.<br>
-Suporte Geral de TI de dia, programador em formação. Explorando visão computacional e inteligência artificial.
-</p>
+- Estudante de Python 💻
+- Aprendendo a criar sistemas desktop e aplicativos Android 📱
+- Estudante UniAteneu 🎓
+- Suporte Geral de TI de dia, programador em formação 🚀
+- Explorando visão computacional e inteligência artificial 🤖
+- Fortaleza, Ceará 📍
 
 ---
 
