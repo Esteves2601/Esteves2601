@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">About me</h1>
+<h1 align="center">Sobre mim</h1>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h1 align="center">Status</h1>
+<h1 align="center">Estatísticas</h1>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Technologies - Main</h2>
+<h2 align="left">Tecnologias - Principais</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
