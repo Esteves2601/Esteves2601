@@ -1,7 +1,13 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Estev%C3%A3o%20Ximenes&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=2F7D33"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=130&section=header&text=Estev%C3%A3o%20Ximenes&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&color=5B9BD5"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5B9BD5&center=true&vCenter=true&width=600&lines=Suporte+Geral+de+TI;Estudante+de+Python;Explorando+IA+e+Vis%C3%A3o+Computacional" alt="typing"  />
 </div>
 
 ###
@@ -10,29 +16,15 @@
 
 ###
 
-<p align="left">- Estudante de Python 💻.<br>- Aprendendo a criar sistemas desktop e aplicativos Android 📱.<br>- Estudante UniAteneu 🎓.<br>- Auxiliar Administrativo de dia, programador em formação 🚀.<br>- Explorando visão computacional e inteligência artificial 🤖.<br>- Fortaleza, Ceará 📍.
+<p align="left">- Estudante de Python 💻.<br>- Aprendendo a criar sistemas desktop e aplicativos Android 📱.<br>- Estudante UniAteneu 🎓.<br>- Suporte Geral de TI, programador em formação 🚀.<br>- Explorando visão computacional e inteligência artificial 🤖.<br>- Fortaleza, Ceará 📍.
 
 ###
 
-<h1 align="center">Estatísticas</h1>
+<h2 align="center">Tecnologias - Estudando</h2>
 
 ###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esteves2601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esteves2601&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Esteves2601&locale=pt-br&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="left">Tecnologias - Estudando</h2>
-
-###
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
@@ -48,11 +40,28 @@
 
 ###
 
-<h2 align="left">Redes Sociais</h2>
+<h1 align="center">Estatísticas</h1>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Esteves2601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="150" alt="estatísticas"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esteves2601&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="linguagens"  />
+  <img src="https://streak-stats.demolab.com?user=Esteves2601&locale=pt-br&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="sequência"  />
+</div>
+
+###
+
+<h2 align="center">Redes Sociais</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/estev%C3%A3o-ximenes-2170bb382/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/estevolx2601/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -64,6 +73,12 @@
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/BKFQl_9P4KsAAAAC/frieren-pixel-pixel-frieren.gif"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://count.getloli.com/@:Esteves2601?theme=sketch-1&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
