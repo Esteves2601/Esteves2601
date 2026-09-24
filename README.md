@@ -72,6 +72,6 @@ Suporte Geral de TI de dia, programador em formação. Explorando visão computa
 ---
 
 <div align="center">
-  <img height="200" src="./frieren.gif" alt="Frieren"  />
+  <img height="200" src="./frieren_foto.jpg" alt="Frieren"  />
   <br>
 </div>
