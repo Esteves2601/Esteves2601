@@ -49,8 +49,12 @@ Suporte Geral de TI de dia, programador em formação. Explorando visão computa
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Esteves2601&locale=pt-br&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="sequência"  />
   <br>
-  <img src="https://img.shields.io/github/followers/Esteves2601?style=for-the-badge&logo=github&color=5B9BD5" alt="seguidores"  />
-  <img src="https://img.shields.io/github/stars/Esteves2601?style=for-the-badge&logo=github&color=5B9BD5" alt="estrelas"  />
+  <a href="https://github.com/Esteves2601?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Esteves2601?style=for-the-badge&logo=github&color=5B9BD5" alt="seguidores"  />
+  </a>
+  <a href="https://github.com/Esteves2601?tab=stars" target="_blank">
+    <img src="https://img.shields.io/github/stars/Esteves2601?style=for-the-badge&logo=github&color=5B9BD5" alt="estrelas"  />
+  </a>
 </div>
 
 ---
