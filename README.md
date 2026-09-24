@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.gif" alt="Estevão Ximenes"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Estev%C3%A3o%20Ximenes&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=5B9BD5"  />
 </div>
 
 <div align="center">
