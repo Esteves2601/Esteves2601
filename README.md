@@ -47,9 +47,10 @@ Suporte Geral de TI de dia, programador em formação. Explorando visão computa
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esteves2601&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1" height="150" alt="estatísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esteves2601&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="linguagens"  />
   <img src="https://streak-stats.demolab.com?user=Esteves2601&locale=pt-br&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="sequência"  />
+  <br>
+  <img src="https://img.shields.io/github/followers/Esteves2601?style=for-the-badge&logo=github&color=5B9BD5" alt="seguidores"  />
+  <img src="https://img.shields.io/github/stars/Esteves2601?style=for-the-badge&logo=github&color=5B9BD5" alt="estrelas"  />
 </div>
 
 ---
@@ -71,6 +72,6 @@ Suporte Geral de TI de dia, programador em formação. Explorando visão computa
 ---
 
 <div align="center">
-  <img height="200" src="[https://media1.tenor.com/m/BKFQl_9P4KsAAAAC/frieren-pixel-pixel-frieren.gif](https://imgs.search.brave.com/AXjQNlSDnnaUn4AVbFZOG83eA9fZjZ-M942lBpndHBk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9j/dXRlLWZyaWVyZW4t/Y2FtcGZpcmUtcmVh/ZGluZy14b3BkZjVw/b3pidHplMDFtLmdp/Zg.gif)" alt="Frieren"  />
+  <img height="200" src="./frieren.gif" alt="Frieren"  />
   <br>
 </div>
