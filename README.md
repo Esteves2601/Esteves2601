@@ -71,6 +71,6 @@ Suporte Geral de TI de dia, programador em formação. Explorando visão computa
 ---
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/BKFQl_9P4KsAAAAC/frieren-pixel-pixel-frieren.gif" alt="Frieren"  />
+  <img height="200" src="[https://media1.tenor.com/m/BKFQl_9P4KsAAAAC/frieren-pixel-pixel-frieren.gif](https://imgs.search.brave.com/AXjQNlSDnnaUn4AVbFZOG83eA9fZjZ-M942lBpndHBk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L3RodW1ibmFpbC9j/dXRlLWZyaWVyZW4t/Y2FtcGZpcmUtcmVh/ZGluZy14b3BkZjVw/b3pidHplMDFtLmdp/Zg.gif)" alt="Frieren"  />
   <br>
 </div>
