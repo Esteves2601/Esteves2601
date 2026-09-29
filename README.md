@@ -32,7 +32,7 @@ estevao = {
 <h2 align="center">Tecnologias que estou estudando</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,kotlin,cs,androidstudio,flask,git" height="50" alt="tecnologias"  />
+  <img src="https://skillicons.dev/icons?i=py,java,cs" height="50" alt="tecnologias"  />
 </div>
 
 ---
