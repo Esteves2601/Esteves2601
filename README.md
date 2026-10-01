@@ -43,6 +43,7 @@ estevao = {
 |---|---|
 | [detector_objetos_yolo26n](https://github.com/Esteves2601/detector_objetos_yolo26n) | Detector de objetos com YOLO: desktop, app Android nativo e PWA, 100% offline |
 | [buscador_cep](https://github.com/Esteves2601/buscador_cep) | Sistema desktop e app Android para consulta de endereços via API ViaCEP |
+| [reconhecimento-placa-veicular](https://github.com/Esteves2601/reconhecimento-placa-veicular) | Reconhecimento de placas BR/AR/UY/PY: desktop, app Android e PWA, com KNN + IA |
 
 ---
 
