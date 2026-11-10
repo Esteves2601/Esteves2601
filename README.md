@@ -65,6 +65,12 @@ estevao = {
 <h2 align="center">Onde me encontrar</h2>
 
 <div align="center">
+  <a href="https://estevestec.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Site-estevestec.com.br-2F7D33?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"  />
+  </a>
+  <a href="mailto:contatos@estevestec.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Email-contatos%40estevestec.com.br-5B9BD5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"  />
+  </a>
   <a href="https://www.linkedin.com/in/estev%C3%A3o-ximenes-2170bb382/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
   </a>
